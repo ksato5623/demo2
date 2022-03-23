@@ -1,7 +1,7 @@
 {
-  "incidents":{
+  "incidents": [
     { "id": 100000042, "escalation_related_incident_id": "INC010000000003", "forward_related_incident_id": "INC010000000002" }
-  },
+  ],
   "posts": [
     { "id": 100000039, "title": "json-server", "author": "ksato5623" }
   ],
