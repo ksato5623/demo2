@@ -4,8 +4,8 @@
   ],
   "incidents": [
     { "id": 100000042, "status": "DRAFT", "title": "json-server" },
-    { "id": 100000044, "status": "DRAFT", "title": "json-server" },
-    { "id": 100000043, "status": "DRAFT", "title": "json-server" }
+    { "id": 100000043, "status": "DRAFT", "title": "json-server" },
+    { "id": 100000044, "status": "DRAFT", "title": "json-server" }
   ],
   "posts": [
     { "id": 100000039, "title": "json-server", "author": "ksato5623" }
