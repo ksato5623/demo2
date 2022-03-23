@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": INC0100000039, "title": "json-server", "author": "ksato5623" }
+    { "id": 100000039, "title": "json-server", "author": "ksato5623" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": INC0100000039 }
+    { "id": 1, "body": "some comment", "postId": 100000039 }
   ],
   "profile": { "name": "ksato5623" }
 }
