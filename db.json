@@ -5,8 +5,9 @@
     }
   ],
   "incidents": [
-    { "id": 100000042, "status": "DRAFT", "forward_related_incident_id": "INC010000000002" },
-    { "id": 100000043, "status": "DRAFT", "forward_related_incident_id": "INC010000000002" }
+    { "id": 100000042, 
+      {"status": "DRAFT"}
+    }
   ],
   "posts": [
     { "id": 100000039, "title": "json-server", "author": "ksato5623" }
