@@ -4,6 +4,7 @@
   ],
   "incidents": [
     { "id": 100000042, "status": "DRAFT", "title": "json-server" },
+    { "id": 100000044, "status": "DRAFT", "title": "json-server" },
     { "id": 100000043, "status": "DRAFT", "title": "json-server" }
   ],
   "posts": [
