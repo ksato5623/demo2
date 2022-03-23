@@ -3,8 +3,8 @@
     { "status": "ASSIGNED", "escalation_related_incident_id": "INC010000000003" }
   ],
   "incidents": [
-    { "id": 100000042, "status": "DRAFT", "title": "json-server" },
     { "id": 100000043, "status": "DRAFT", "title": "json-server" },
+    { "id": 100000045, "status": "DRAFT", "title": "json-server" },
     { "id": 100000044, "status": "DRAFT", "title": "json-server" }
   ],
   "posts": [
