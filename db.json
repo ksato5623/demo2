@@ -6,7 +6,7 @@
   ],
   "incidents": [
     { "id": 100000043, 
-      {"status": "DRAFT"}
+      {"status": "DRAFT", "title": "json-server"}
     }
   ],
   "posts": [
