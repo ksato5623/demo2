@@ -1,6 +1,8 @@
 {
   "100000043": [
-    { "status": "NEW", "escalation_related_incident_id": "INC010000000003" }
+    { "status": "ASSIGNED", 
+      {"escalation_related_incident_id": "INC010000000003" }
+    }
   ],
   "incidents": [
     { "id": 100000042, "status": "DRAFT", "forward_related_incident_id": "INC010000000002" },
